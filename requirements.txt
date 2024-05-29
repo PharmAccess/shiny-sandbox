@@ -1,0 +1,6 @@
+altair
+faicons
+palmerpenguins
+pandas
+shiny
+shinywidgets
